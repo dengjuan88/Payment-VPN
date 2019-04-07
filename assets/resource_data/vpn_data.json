@@ -1,0 +1,18 @@
+[
+  {
+    "identifier": "United States",
+    "tag": "NY 1 DC",
+    "url": "206.189.232.80",
+    "username": "vpnuser",
+    "password": "6B35wN6PUib7kKYb",
+    "shared_key": "6RPhWsUt7mMAgbtcRxV3",
+    "asset_uri": "assets/resource_data/openvpn/United States-NY 1 DC.ovpn"
+  },
+  {
+    "identifier": "China",
+    "tag": "CN MCH",
+    "url": "https://47.92.78.86",
+    "username": "payment",
+    "password": "wNsdsdf6PU6B35ib"
+  }
+]
