@@ -14,5 +14,14 @@
     "url": "https://47.92.78.86",
     "username": "payment",
     "password": "wNsdsdf6PU6B35ib"
-  }
+  },
+  {
+    "identifier": "United States",
+    "tag": "NY 2 DC",
+    "url": "126.19.132.8",
+    "username": "vpnuser",
+    "password": "6B35wNt7mMAgbt6PKYb",
+    "shared_key": "6RPhWsUib7kUcRxV3",
+    "asset_uri": "assets/resource_data/openvpn/United States-NY 1 DC.ovpn"
+  },
 ]
